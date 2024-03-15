@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/versta_assignment/static/css/main.844b44b5.css",
+    "main.js": "/versta_assignment/static/js/main.633d5253.js",
+    "static/js/453.1c9088d9.chunk.js": "/versta_assignment/static/js/453.1c9088d9.chunk.js",
+    "index.html": "/versta_assignment/index.html",
+    "main.844b44b5.css.map": "/versta_assignment/static/css/main.844b44b5.css.map",
+    "main.633d5253.js.map": "/versta_assignment/static/js/main.633d5253.js.map",
+    "453.1c9088d9.chunk.js.map": "/versta_assignment/static/js/453.1c9088d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.844b44b5.css",
+    "static/js/main.633d5253.js"
+  ]
+}
